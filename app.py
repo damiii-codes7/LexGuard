@@ -49,7 +49,7 @@ Adv. Damini Yasodai &nbsp;|&nbsp; AI Legal Intelligence &nbsp;|&nbsp; Indian Law
 </div>
 
 <div style='display:inline-flex;gap:1rem;opacity:0;animation:fadeIn 1s 1.2s forwards;flex-wrap:wrap;justify-content:center;'>
-<a href="https://policyguard-riskmanagementanalysis.streamlit.app" target="_blank" style='font-family:Space Mono,monospace;font-size:0.75rem;text-transform:uppercase;letter-spacing:0.15em;color:#030303;background:#E94E1B;padding:1rem 2rem;text-decoration:none;font-weight:700;'>EXPLORE TOOLS →</a>
+<a href="https://yk-policy.streamlit.app" target="_blank" style='font-family:Space Mono,monospace;font-size:0.75rem;text-transform:uppercase;letter-spacing:0.15em;color:#030303;background:#E94E1B;padding:1rem 2rem;text-decoration:none;font-weight:700;'>EXPLORE TOOLS →</a>
 <a href="https://github.com/damiii-codes7" target="_blank" style='font-family:Space Mono,monospace;font-size:0.75rem;text-transform:uppercase;letter-spacing:0.15em;color:#888;border:1px solid #181818;padding:1rem 2rem;text-decoration:none;'>VIEW GITHUB</a>
 </div>
 </div>
@@ -97,7 +97,7 @@ Adv. Damini Yasodai &nbsp;|&nbsp; AI Legal Intelligence &nbsp;|&nbsp; Indian Law
 
 <div style='display:grid;grid-template-columns:repeat(3,1fr);gap:1rem;margin-bottom:4rem;'>
 
-<a href="https://policyguard-riskmanagementanalysis.streamlit.app" target="_blank" style='text-decoration:none;'>
+<a href="https://yk-policy.streamlit.app" target="_blank" style='text-decoration:none;'>
 <div style='border:1px solid #181818;padding:2rem;position:relative;overflow:hidden;background:#030303;'>
 <div style='position:absolute;top:0;left:0;width:3px;height:100%;background:#E94E1B;'></div>
 <div style='font-size:2rem;margin-bottom:1rem;'>⚖️</div>
@@ -109,7 +109,7 @@ Adv. Damini Yasodai &nbsp;|&nbsp; AI Legal Intelligence &nbsp;|&nbsp; Indian Law
 </div>
 </a>
 
-<a href="https://policyguard-riskmanagementanalysis.streamlit.app" target="_blank" style='text-decoration:none;'>
+<a href="https://yk-policy.streamlit.app" target="_blank" style='text-decoration:none;'>
 <div style='border:1px solid #181818;padding:2rem;position:relative;overflow:hidden;background:#030303;'>
 <div style='position:absolute;top:0;left:0;width:3px;height:100%;background:#E94E1B;'></div>
 <div style='font-size:2rem;margin-bottom:1rem;'>📜</div>
@@ -121,7 +121,7 @@ Adv. Damini Yasodai &nbsp;|&nbsp; AI Legal Intelligence &nbsp;|&nbsp; Indian Law
 </div>
 </a>
 
-<a href="https://contract-riskanalyzer.streamlit.app" target="_blank" style='text-decoration:none;'>
+<a href="https://yk-contract.streamlit.app" target="_blank" style='text-decoration:none;'>
 <div style='border:1px solid #181818;padding:2rem;position:relative;overflow:hidden;background:#030303;'>
 <div style='position:absolute;top:0;left:0;width:3px;height:100%;background:#2D9CDB;'></div>
 <div style='font-size:2rem;margin-bottom:1rem;'>📋</div>
