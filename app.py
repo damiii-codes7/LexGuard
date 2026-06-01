@@ -31,7 +31,7 @@ st.markdown("""
 
 <div style='display:inline-flex;align-items:center;gap:0.75rem;font-family:Space Mono,monospace;font-size:0.65rem;text-transform:uppercase;letter-spacing:0.15em;color:#888;margin-bottom:2rem;padding:0.6rem 1.2rem;border:1px solid #181818;opacity:0;animation:fadeIn 1s 0.5s forwards;'>
 <span style='width:6px;height:6px;background:#E94E1B;border-radius:50%;animation:pulse 2s infinite;display:inline-block;'></span>
-Legal & Justice &nbsp;|&nbsp; AI Legal Intelligence &nbsp;|&nbsp; Indian Laws
+Law & Justice &nbsp;|&nbsp; AI Legal Software &nbsp;|&nbsp; Indian Laws
 </div>
 
 <div style='overflow:hidden;'>
@@ -41,10 +41,10 @@ Legal & Justice &nbsp;|&nbsp; AI Legal Intelligence &nbsp;|&nbsp; Indian Laws
 <div style='transform:translateY(115%);animation:slideUp 1.2s cubic-bezier(0.16,1,0.3,1) 0.5s forwards;font-family:Bebas Neue,sans-serif;font-size:clamp(3rem,10vw,7rem);line-height:0.85;color:#E94E1B;letter-spacing:0.3em;'>LEGAL</div>
 </div>
 <div style='overflow:hidden;margin-bottom:1rem;'>
-<div style='transform:translateY(115%);animation:slideUp 1.2s cubic-bezier(0.16,1,0.3,1) 0.65s forwards;font-family:Cormorant Garamond,serif;font-weight:300;font-size:clamp(1rem,2.5vw,1.4rem);color:#888;letter-spacing:0.2em;'>AI Legal Intelligence</div>
+<div style='transform:translateY(115%);animation:slideUp 1.2s cubic-bezier(0.16,1,0.3,1) 0.65s forwards;font-family:Cormorant Garamond,serif;font-weight:300;font-size:clamp(1rem,2.5vw,1.4rem);color:#888;letter-spacing:0.2em;'>The Results You Need</div>
 </div>
 <div style='overflow:hidden;margin-bottom:3rem;'>
-<div style='transform:translateY(115%);animation:slideUp 1.2s cubic-bezier(0.16,1,0.3,1) 0.8s forwards;font-family:Space Mono,monospace;font-size:clamp(0.6rem,1.5vw,0.8rem);color:#444;letter-spacing:0.15em;text-transform:uppercase;'>Indian Laws Made Easier &nbsp;◆&nbsp; AI Legal Support</div>
+<div style='transform:translateY(115%);animation:slideUp 1.2s cubic-bezier(0.16,1,0.3,1) 0.8s forwards;font-family:Space Mono,monospace;font-size:clamp(0.6rem,1.5vw,0.8rem);color:#444;letter-spacing:0.15em;text-transform:uppercase;'>Justice begins with trust &nbsp;◆&nbsp; AI Legal Support</div>
 </div>
 
 <div style='display:inline-flex;gap:1rem;opacity:0;animation:fadeIn 1s 1.2s forwards;flex-wrap:wrap;justify-content:center;'>
@@ -82,7 +82,7 @@ Legal & Justice &nbsp;|&nbsp; AI Legal Intelligence &nbsp;|&nbsp; Indian Laws
 <div style='font-family:Space Mono,monospace;font-size:0.6rem;text-transform:uppercase;letter-spacing:0.2em;color:#888;margin-top:0.5rem;'>Indian Laws</div>
 </div>
 <div style='padding:2rem;border-right:1px solid #181818;text-align:center;'>
-<div style='font-family:Bebas Neue,sans-serif;font-size:3.5rem;color:#ffffff;line-height:1;'>60s</div>
+<div style='font-family:Bebas Neue,sans-serif;font-size:3.5rem;color:#ffffff;line-height:1;'>60secs</div>
 <div style='font-family:Space Mono,monospace;font-size:0.6rem;text-transform:uppercase;letter-spacing:0.2em;color:#888;margin-top:0.5rem;'>Analysis Time</div>
 </div>
 <div style='padding:2rem;text-align:center;'>
